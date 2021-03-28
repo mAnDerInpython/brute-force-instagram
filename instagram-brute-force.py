@@ -1,8 +1,41 @@
 from webbot import Browser
 from pynput.keyboard import Key, Controller
 import time
-username = input('Username: ')
-dictionary = input('Choose Dictionary: ')
+username = input('ssa.2022.marchsadness: ')
+dictionary = input('jacko
+1234
+45561
+limak
+kasih
+gurua
+testi
+12345
+54321
+54312
+tools
+jeemm
+genoa
+trips
+jacko
+democ
+repub
+trust
+thats
+fives
+chara
+cters
+can't
+beuse
+inthe
+insta
+gram
+page
+sooo
+uneed
+six
+chara
+cters
+Real_Password ')
 
 file = open(f'{dictionary}.txt', 'r')
 bruteforce = []
